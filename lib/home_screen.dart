@@ -43,7 +43,7 @@ class _HomeScreenState extends State<HomeScreen> {
   bool _isApiConnected = false;
   bool _isLoadingResponse = false;
   String _apiStatusMessage = 'Connecting to Gemini API...';
-  static const String _geminiApiKey = 'AIzaSyAzBmu6ofkVA49UuOmjaj_dC-va8uI1Wsw'; // Replace with your actual API key
+  static const String _geminiApiKey = 'Replace with your actual API key';
 
   @override
   void initState() {
