@@ -1,6 +1,6 @@
 ---
 
-# 🩺 Healthcare Chatbot App
+# 🩺 Healthcare Chatbot App (FLUTTER)
 
 A smart and interactive mobile application built using **Flutter** that serves as a virtual health assistant. This chatbot helps users with medical symptom analysis, general health queries, and finding nearby hospitals — all from their mobile device.
 
